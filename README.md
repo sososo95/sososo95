@@ -2,7 +2,7 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e762731ebb0dee00750438cb33b3e6ee2e6999cc38483fa018ac3e9ad22c804c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e672626636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d68656164657226666f6e7453697a653d3930"><img src="https://camo.githubusercontent.com/e762731ebb0dee00750438cb33b3e6ee2e6999cc38483fa018ac3e9ad22c804c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e672626636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d68656164657226666f6e7453697a653d3930" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;&amp;color=gradient&amp;height=100&amp;section=header&amp;fontSize=90" style="max-width: 100%;"></a></p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233AB5DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sososo95)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsososo95&count_bg=%233EC6BD&title_bg=%23C1D773&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 방문을 환영합니다 <br/> 행복한 하루 되세요
 
@@ -25,9 +25,24 @@
 
 ### 😄 About Me 😄
 
-<img src="https://img.shields.io/badge/notion-9999FF?style=flat-square&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/tistory-FA6831?style=flat-square&logo=tistory&logoColor=white"/>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.notion.so/SoJaeYeon-3beb0913f96d4a168c1a12e5e936a38a?pvs=4">
+  <img src="https://img.shields.io/badge/notion(포트폴리오)-9999FF?style=flat-square&logo=notion&logoColor=white" />
+</a>
+<br/>
+
+<a href="https://ssojae95.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory(블로그)-FA6831?style=flat-square&logo=tistory&logoColor=white" />
+</a>
+<br/>
+
+<a href="https://www.instagram.com/ssojae95/">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+
+<br/>
+
+### ▲ Click ▲
+
 <br/>
 
 
